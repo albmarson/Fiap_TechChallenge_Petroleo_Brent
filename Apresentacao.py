@@ -104,7 +104,7 @@ Além dessas métricas de preço, o dashboard traz também **insights valiosos**
 """)
 
 # URL do relatório do Power BI
-power_bi_url = "https://app.powerbi.com/view?r=eyJrIjoiOTdjZjRhNGEtZjFkNi00ZjIzLWJlODEtNWU3YjkxMWY5ZTNhIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9"
+power_bi_url = "https://app.powerbi.com/view?r=eyJrIjoiOTdjZjRhNGEtZjFkNi00ZjIzLWJlODEtNWU3YjkxMWY5ZTNhIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9&pageName=31f134ed9d1c65f46330"
 
 # Centralizando o iframe do Power BI
 st.markdown(
