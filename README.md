@@ -64,3 +64,4 @@ In addition to the Streamlit app, I also developed an **interactive dashboard** 
 
 In Streamlit, I also included a section with **key topics** and **relevant points**, highlighting the **main conclusions** and **insights** derived from the study. I believe these points are essential for better understanding the data and guiding strategic decisions in the oil market.
 
+Thank you!  
