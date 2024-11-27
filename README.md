@@ -32,7 +32,7 @@ No Streamlit, incluí também uma seção com **tópicos de atenção** e **pont
 
 Muito obrigado! 
 
-# Fiap - TechChallenge - Petroleo_Brent
+# Fiap - TechChallenge - Petroleum Brent
 
 Hello, professors,
 
