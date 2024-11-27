@@ -1,4 +1,4 @@
-# Fiap_TechChallenge_Petroleo_Brent
+# Fiap - Tech Challenge - Petroleo Brent
 
 Olá, professores,
 
@@ -32,7 +32,7 @@ No Streamlit, incluí também uma seção com **tópicos de atenção** e **pont
 
 Muito obrigado! 
 
-# Fiap_TechChallenge_Petroleo_Brent
+# Fiap - TechChallenge - Petroleo_Brent
 
 Hello, professors,
 
