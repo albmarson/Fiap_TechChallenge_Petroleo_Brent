@@ -204,7 +204,6 @@ Em suma, a **dinâmica do mercado de petróleo é intrinsecamente volátil**, e 
 st.header("📚Referências Bibliográficas")
 
 st.markdown("""
-### Referências Bibliográficas
 
 1. CNN Brasil. (2024). *Petróleo Brent tem queda de quase 6% após ataque limitado de Israel contra o Irã*. CNN Brasil. Disponível em: [https://www.cnnbrasil.com.br/economia/macroeconomia/petroleo-brent-tem-queda-de-quase-6-apos-ataque-limitado-de-israel-contra-o-ira/](https://www.cnnbrasil.com.br/economia/macroeconomia/petroleo-brent-tem-queda-de-quase-6-apos-ataque-limitado-de-israel-contra-o-ira/)
 
